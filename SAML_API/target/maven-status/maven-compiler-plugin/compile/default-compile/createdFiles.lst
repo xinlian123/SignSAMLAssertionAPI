@@ -1,0 +1,6 @@
+com\xin\api\SamlApiApplication.class
+com\xin\api\saml\SAMLController.class
+com\xin\api\saml\SAMLInfo.class
+com\xin\api\saml\SAMLService.class
+com\xin\api\hello\Hello.class
+com\xin\api\saml\secConfig.class
